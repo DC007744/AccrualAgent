@@ -1,11 +1,11 @@
 # Accounting Agents – Automated Month‑End Accrual & Vendor‑Follow‑up
 
 ## Overview
-This repository demonstrates a **multi‑agent workflow** built with the OpenAI Agents SDK (GPT‑4.1 LLM).  It automatically:
-1. Analyses historical transactions to detect regular vendor billing patterns.
-2. Flags vendors that *should* have billed this month but haven’t.
-3. Suggests the accrual amount per missing vendor.
-4. Drafts personalised e‑mails to request the outstanding invoices.
+This repository demonstrates a **multi‑agent workflow** built with the OpenAI Agents SDK (GPT‑4.1 LLM). It automatically:
+1. Analyses historical transactions to detect regular vendor billing patterns.
+2. Flags vendors that *should* have billed this month but haven’t.
+3. Suggests the accrual amount per missing vendor.
+4. Drafts personalised e‑mails to request the outstanding invoices.
 
 Everything is orchestrated by a top‑level **Orchestrator** agent, which chooses the right sub‑agents depending on the user’s **query** entered.
 
