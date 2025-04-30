@@ -7,6 +7,8 @@ This repository demonstrates a **multi‑agent workflow** built with the OpenAI�
 3. Suggests the accrual amount per missing vendor.
 4. Drafts personalised e‑mails to request the outstanding invoices.
 
+Rather than sending entire transaction logs to the LLM, a Python preprocessing step first detects relevant transaction patterns. This filtered dataset is then passed to the agents, making the process significantly faster and more cost-efficient.
+
 Everything is orchestrated by a top‑level **Orchestrator** agent, which chooses the right sub‑agents depending on the user’s **query** entered.
 
 ---
@@ -16,7 +18,7 @@ AccrualAgent/
 ├─ Csv_files/
 │   ├─ historical_transactions.csv
 │   └─ current_month_transactions.csv
-├─ pre_agentic_check.py        # cadence analysis + accrual tool
+├─ pre_agentic_check.py        # cadence analysis + accrual tool 
 ├─ main.py                     # main script to run
 ├─ README.md                   
 └─ .env                        # add OpenAI API key here
