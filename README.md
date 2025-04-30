@@ -77,11 +77,12 @@ The orchestrator inspects the prompt and decides which combination of tools to i
 1. **HTML Email Generation**  
    ‑ Update `Communication_agent` to return a JSON object with both `subject` and `html_body` keys.  
    ‑ This can then be parsed into plain text via JS and presented to user with a "Open in Gmail/Outlook" button.
+
 2. **UI Integration**  
    ‑ In a front‑end (using Flask server and React, etc. as front end) display the current month transactions, and place a **“Get suggestions”** button at the bottom-right.  
    ‑ When clicked, sends a query to the orchestrator accordingly.
    - More functionality can be added were button clicks send different queries to orchestrator agent.
-   - 
+     
 4. **Dashboard**  
    ‑ Persist results to a database and build a lightweight BI dashboard to track recurring vendors, missed invoices, and month‑end accrual totals over time.
 
