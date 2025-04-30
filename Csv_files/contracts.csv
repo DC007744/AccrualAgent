@@ -1,0 +1,31 @@
+contract_id,vendor_id,description,start_date,end_date,payment_frequency,payment_amount,payment_terms,auto_renewal,gl_account_id,last_modified
+C001,V001,Office Lease Agreement,2024-01-01,2025-12-31,Monthly,4500.00,Net 30,Yes,GL4500,2025-01-01
+C002,V002,IT Managed Services Contract,2024-01-01,2025-12-31,Monthly,3950.75,Net 15,Yes,GL5200,2025-01-10
+C003,V003,Accounting Software Subscription,2024-01-01,2025-12-31,Monthly,1250.00,Net 30,Yes,GL5300,2024-12-15
+C004,V004,Legal Services Retainer,2024-01-01,2025-12-31,As Needed,0.00,Net 45,Yes,GL6100,2024-12-20
+C005,V005,Electricity Service Agreement,2024-01-01,2025-12-31,Monthly,Variable,Net 21,Yes,GL5100,2024-01-15
+C006,V006,Water Service Agreement,2024-01-01,2025-12-31,Monthly,Variable,Net 21,Yes,GL5110,2024-01-15
+C007,V007,Marketing Agency Services,2024-01-01,2025-12-31,Monthly,7500.00,Net 30,Yes,GL5400,2025-01-05
+C008,V008,Office Cleaning Services,2024-01-01,2025-12-31,Monthly,2460.00,Net 15,Yes,GL5500,2025-01-10
+C009,V003,Annual Audit Services,2024-01-01,2025-12-31,Quarterly,9500.00,Net 30,Yes,GL6200,2025-01-15
+C010,V010,Internet Services Agreement,2024-01-01,2025-12-31,Monthly,1950.30,Net 15,Yes,GL5250,2025-01-02
+C011,V011,Office Supplies Contract,2024-01-01,2025-12-31,As Needed,0.00,Net 30,Yes,GL5600,2024-12-10
+C012,V012,Equipment Maintenance Agreement,2024-01-01,2025-12-31,Annual,5400.00,Net 30,Yes,GL5700,2024-12-18
+C013,V013,Software License Agreement,2024-04-01,2026-03-31,Annual,12500.00,Net 45,Yes,GL5800,2025-03-15
+C014,V014,Data Backup Services,2024-01-01,2025-12-31,Monthly,1850.00,Net 30,Yes,GL5230,2024-12-12
+C015,V015,Printing Services Agreement,2024-01-15,2025-01-14,Monthly,Variable,Net 15,Yes,GL5630,2024-12-15
+C016,V016,Courier Services Contract,2024-02-01,2025-01-31,Monthly,Variable,Net 15,Yes,GL7130,2024-12-20
+C017,V017,Document Destruction Services,2024-01-01,2025-12-31,Monthly,345.00,Net 30,Yes,GL5520,2024-12-05
+C018,V018,Corporate Catering Services,2024-01-01,2025-12-31,As Needed,0.00,Net 15,Yes,GL7220,2024-12-18
+C019,V019,Landscaping Maintenance,2024-03-01,2025-02-28,Monthly,1250.00,Net 30,Yes,GL4520,2024-12-15
+C020,V020,Employee Benefits Services,2024-01-01,2025-12-31,Monthly,2750.00,Net 45,Yes,GL6330,2024-12-10
+C021,V021,Office Furniture Maintenance,2024-02-15,2025-02-14,Quarterly,1875.00,Net 30,Yes,GL5710,2024-12-08
+C022,V022,Cloud Infrastructure Services,2024-01-01,2025-12-31,Monthly,3250.00,Net 30,Yes,GL5210,2024-12-14
+C023,V023,Recruitment Services Agreement,2024-01-01,2025-12-31,As Needed,0.00,Net 45,Yes,GL6530,2024-12-19
+C024,V024,Quality Testing Services,2024-01-01,2025-12-31,Quarterly,6500.00,Net 30,Yes,GL6300,2024-12-11
+C025,V025,Building Management System,2024-01-01,2025-12-31,Monthly,2100.00,Net 30,Yes,GL4520,2024-12-15
+C026,V026,Executive Training Program,2024-01-01,2025-12-31,Quarterly,8500.00,Net 45,Yes,GL6410,2024-12-22
+C027,V027,Renewable Energy Contract,2024-05-01,2026-04-30,Monthly,1750.00,Net 21,Yes,GL5120,2024-12-10
+C028,V028,Coffee and Beverage Service,2024-01-01,2025-12-31,Monthly,875.00,Net 15,Yes,GL5620,2024-12-14
+C029,V029,Security Monitoring Services,2024-01-01,2025-12-31,Monthly,1950.00,Net 30,Yes,GL4530,2024-12-17
+C030,V030,Network Management Services,2024-01-01,2025-12-31,Monthly,2850.00,Net 15,Yes,GL5220,2024-12-20

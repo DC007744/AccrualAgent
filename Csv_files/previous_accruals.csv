@@ -1,0 +1,151 @@
+accrual_id,accrual_date,vendor_id,gl_account_id,description,estimated_amount,actual_amount,variance,variance_percent,created_by,status,notes
+AC2024-05-01,5/31/24,V001,GL4500,Office Lease June 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-02,5/31/24,V002,GL5200,IT Services June 2024,3875.25,3875.25,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-03,5/31/24,V003,GL5300,Accounting Software June 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-04,5/31/24,V005,GL5100,Electricity May 2024 (5 days),687.63,690.25,2.62,0.38,User,Cleared,Manual estimate for 5 days based on average daily cost
+AC2024-05-05,5/31/24,V006,GL5110,Water May 2024 (5 days),315.08,320.13,5.05,1.6,User,Cleared,Manual estimate for 5 days based on average daily cost
+AC2024-05-06,5/31/24,V007,GL5400,Marketing Services June 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-07,5/31/24,V008,GL5500,Cleaning Services June 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-08,5/31/24,V010,GL5250,Internet June 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-09,5/31/24,V014,GL5230,Data Backup Services June 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-10,5/31/24,V022,GL5210,Cloud Infrastructure Services June 2024,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-11,5/31/24,V029,GL4530,Security Monitoring Services June 2024,1950,1950,0,0,System,Cleared,Auto-generated based on contract
+AC2024-05-12,5/31/24,V030,GL5220,Network Management Services June 2024,2850,2850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-01,6/30/24,V001,GL4500,Office Lease July 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-02,6/30/24,V002,GL5200,IT Services July 2024,3875.25,3875.25,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-03,6/30/24,V003,GL5300,Accounting Software July 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-04,6/30/24,V005,GL5100,Electricity June 2024 (7 days),1008.08,985.65,-22.43,-2.22,User,Cleared,Manual estimate for 7 days based on average daily cost
+AC2024-06-05,6/30/24,V006,GL5110,Water June 2024 (7 days),448.18,455.3,7.12,1.59,User,Cleared,Manual estimate for 7 days based on average daily cost
+AC2024-06-06,6/30/24,V007,GL5400,Marketing Services July 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-07,6/30/24,V008,GL5500,Cleaning Services July 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-08,6/30/24,V010,GL5250,Internet July 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-09,6/30/24,V012,GL5700,Equipment Maintenance Q2,1350,1350,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2024-06-10,6/30/24,V014,GL5230,Data Backup Services July 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-11,6/30/24,V022,GL5210,Cloud Infrastructure Services July 2024,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-12,6/30/24,V020,GL6330,Employee Benefits Administration July 2024,2750,2750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-06-13,6/30/24,V027,GL5120,Renewable Energy Services July 2024,1750,1750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-01,7/31/24,V001,GL4500,Office Lease August 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-02,7/31/24,V002,GL5200,IT Services August 2024,3875.25,3875.25,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-03,7/31/24,V003,GL5300,Accounting Software August 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-04,7/31/24,V005,GL5100,Electricity July 2024 (6 days),936.17,945.3,9.13,0.98,User,Cleared,Manual estimate for 6 days based on average daily cost
+AC2024-07-05,7/31/24,V006,GL5110,Water July 2024 (6 days),390.05,388.27,-1.78,-0.46,User,Cleared,Manual estimate for 6 days based on average daily cost
+AC2024-07-06,7/31/24,V007,GL5400,Marketing Services August 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-07,7/31/24,V008,GL5500,Cleaning Services August 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-08,7/31/24,V010,GL5250,Internet August 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-09,7/31/24,V003,GL6200,Quarterly Audit Q3,9500,9500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-10,7/31/24,V014,GL5230,Data Backup Services August 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-11,7/31/24,V025,GL4520,Building Management System August 2024,2100,2100,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-12,7/31/24,V029,GL4530,Security Monitoring Services August 2024,1950,1950,0,0,System,Cleared,Auto-generated based on contract
+AC2024-07-13,7/31/24,V027,GL5120,Renewable Energy Services August 2024,1750,1750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-01,8/31/24,V001,GL4500,Office Lease September 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-02,8/31/24,V002,GL5200,IT Services September 2024,3875.25,3875.25,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-03,8/31/24,V003,GL5300,Accounting Software September 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-04,8/31/24,V005,GL5100,Electricity August 2024 (8 days),1303.45,1245.83,-57.62,-4.42,User,Cleared,Manual estimate for 8 days based on average daily cost
+AC2024-08-05,8/31/24,V006,GL5110,Water August 2024 (8 days),528.18,535.65,7.47,1.41,User,Cleared,Manual estimate for 8 days based on average daily cost
+AC2024-08-06,8/31/24,V007,GL5400,Marketing Services September 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-07,8/31/24,V008,GL5500,Cleaning Services September 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-08,8/31/24,V010,GL5250,Internet September 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-09,8/31/24,V014,GL5230,Data Backup Services September 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-10,8/31/24,V022,GL5210,Cloud Infrastructure Services September 2024,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-11,8/31/24,V019,GL4520,Landscaping Maintenance September 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-12,8/31/24,V028,GL5620,Coffee and Beverage Service September 2024,875,875,0,0,System,Cleared,Auto-generated based on contract
+AC2024-08-13,8/31/24,V021,GL5710,Office Furniture Maintenance - Q3,1875,1875,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2024-09-01,9/30/24,V001,GL4500,Office Lease October 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-02,9/30/24,V002,GL5200,IT Services October 2024,3875.25,3950.75,75.5,1.95,System,Cleared,Auto-generated based on contract - price increased
+AC2024-09-03,9/30/24,V003,GL5300,Accounting Software October 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-04,9/30/24,V005,GL5100,Electricity September 2024 (9 days),1395.09,1420.85,25.76,1.85,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-09-05,9/30/24,V006,GL5110,Water September 2024 (9 days),580.65,575.2,-5.45,-0.94,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-09-06,9/30/24,V007,GL5400,Marketing Services October 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-07,9/30/24,V008,GL5500,Cleaning Services October 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-08,9/30/24,V010,GL5250,Internet October 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-09,9/30/24,V012,GL5700,Equipment Maintenance Q3,1350,1350,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2024-09-10,9/30/24,V014,GL5230,Data Backup Services October 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-11,9/30/24,V022,GL5210,Cloud Infrastructure Services October 2024,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-12,9/30/24,V020,GL6330,Employee Benefits Administration October 2024,2750,2750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-09-13,9/30/24,V024,GL6300,Quality Testing Services - Q3,6500,6500,0,0,System,Cleared,Quarterly payment based on contract
+AC2024-09-14,9/30/24,V026,GL6410,Executive Training Program - Q3,8500,8500,0,0,System,Cleared,Quarterly payment based on contract
+AC2024-10-01,10/31/24,V001,GL4500,Office Lease November 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-02,10/31/24,V002,GL5200,IT Services November 2024,3950.75,3950.75,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-03,10/31/24,V003,GL5300,Accounting Software November 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-04,10/31/24,V005,GL5100,Electricity October 2024 (9 days),1327.68,1358.25,30.57,2.3,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-10-05,10/31/24,V006,GL5110,Water October 2024 (9 days),571.58,575.35,3.77,0.66,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-10-06,10/31/24,V007,GL5400,Marketing Services November 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-07,10/31/24,V008,GL5500,Cleaning Services November 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-08,10/31/24,V010,GL5250,Internet November 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-09,10/31/24,V014,GL5230,Data Backup Services November 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-10,10/31/24,V022,GL5210,Cloud Infrastructure Services November 2024,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-11,10/31/24,V027,GL5120,Renewable Energy Services November 2024,1750,1750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-12,10/31/24,V029,GL4530,Security Monitoring Services November 2024,1950,1950,0,0,System,Cleared,Auto-generated based on contract
+AC2024-10-13,10/31/24,V021,GL5710,Office Furniture Maintenance - Q4,1875,1875,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2024-11-01,11/30/24,V001,GL4500,Office Lease December 2024,4250,4250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-02,11/30/24,V002,GL5200,IT Services December 2024,3950.75,3950.75,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-03,11/30/24,V003,GL5300,Accounting Software December 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-04,11/30/24,V005,GL5100,Electricity November 2024 (8 days),1208.11,1235.45,27.34,2.26,User,Cleared,Manual estimate for 8 days based on average daily cost
+AC2024-11-05,11/30/24,V006,GL5110,Water November 2024 (8 days),512.2,518.75,6.55,1.28,User,Cleared,Manual estimate for 8 days based on average daily cost
+AC2024-11-06,11/30/24,V007,GL5400,Marketing Services December 2024,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-07,11/30/24,V008,GL5500,Cleaning Services December 2024,2340,2340,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-08,11/30/24,V010,GL5250,Internet December 2024,1875.3,1875.3,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-09,11/30/24,V003,GL6200,Quarterly Audit Q4,9500,9500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-10,11/30/24,V014,GL5230,Data Backup Services December 2024,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-11,11/30/24,V019,GL4520,Landscaping Maintenance December 2024,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-12,11/30/24,V020,GL6330,Employee Benefits Administration December 2024,2750,2750,0,0,System,Cleared,Auto-generated based on contract
+AC2024-11-13,11/30/24,V025,GL4520,Building Management System December 2024,2100,2100,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-01,12/31/24,V001,GL4500,Office Lease January 2025,4250,4500,250,5.88,System,Cleared,Auto-generated based on contract - price increased
+AC2024-12-02,12/31/24,V002,GL5200,IT Services January 2025,3950.75,3950.75,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-03,12/31/24,V003,GL5300,Accounting Software January 2025,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-04,12/31/24,V005,GL5100,Electricity December 2024 (9 days),1395.06,1420.1,25.04,1.79,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-12-05,12/31/24,V006,GL5110,Water December 2024 (9 days),585.15,590.25,5.1,0.87,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2024-12-06,12/31/24,V007,GL5400,Marketing Services January 2025,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-07,12/31/24,V008,GL5500,Cleaning Services January 2025,2340,2460,120,5.13,System,Cleared,Auto-generated based on contract - price increased
+AC2024-12-08,12/31/24,V010,GL5250,Internet January 2025,1875.3,1950.3,75,4,System,Cleared,Auto-generated based on contract - price increased
+AC2024-12-09,12/31/24,V012,GL5700,Equipment Maintenance Q4,1350,1350,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2024-12-10,12/31/24,V014,GL5230,Data Backup Services January 2025,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-11,12/31/24,V022,GL5210,Cloud Infrastructure Services January 2025,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2024-12-12,12/31/24,V024,GL6300,Quality Testing Services - Q4,6500,6500,0,0,System,Cleared,Quarterly payment based on contract
+AC2024-12-13,12/31/24,V026,GL6410,Executive Training Program - Q4,8500,8500,0,0,System,Cleared,Quarterly payment based on contract
+AC2024-12-14,12/31/24,V029,GL4530,Security Monitoring Services January 2025,1950,1950,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-01,1/31/25,V001,GL4500,Office Lease February 2025,4500,4500,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-02,1/31/25,V002,GL5200,IT Services February 2025,3950.75,3950.75,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-03,1/31/25,V003,GL5300,Accounting Software February 2025,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-04,1/31/25,V005,GL5100,Electricity January 2025 (9 days),1416.15,1435.2,19.05,1.35,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2025-01-05,1/31/25,V006,GL5110,Water January 2025 (9 days),589.58,592.3,2.72,0.46,User,Cleared,Manual estimate for 9 days based on average daily cost
+AC2025-01-06,1/31/25,V007,GL5400,Marketing Services February 2025,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-07,1/31/25,V008,GL5500,Cleaning Services February 2025,2460,2460,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-08,1/31/25,V010,GL5250,Internet February 2025,1950.3,1950.3,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-09,1/31/25,V014,GL5230,Data Backup Services February 2025,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-10,1/31/25,V022,GL5210,Cloud Infrastructure Services February 2025,3250,3250,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-11,1/31/25,V019,GL4520,Landscaping Maintenance February 2025,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-12,1/31/25,V020,GL6330,Employee Benefits Administration February 2025,2750,2750,0,0,System,Cleared,Auto-generated based on contract
+AC2025-01-13,1/31/25,V027,GL5120,Renewable Energy Services February 2025,1750,1750,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-01,2/28/25,V001,GL4500,Office Lease March 2025,4500,4500,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-02,2/28/25,V002,GL5200,IT Services March 2025,3950.75,3950.75,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-03,2/28/25,V003,GL5300,Accounting Software March 2025,1250,1250,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-04,2/28/25,V005,GL5100,Electricity February 2025 (6 days),936.06,945.35,9.29,0.99,User,Cleared,Manual estimate for 6 days based on average daily cost
+AC2025-02-05,2/28/25,V006,GL5110,Water February 2025 (6 days),386.15,390.3,4.15,1.07,User,Cleared,Manual estimate for 6 days based on average daily cost
+AC2025-02-06,2/28/25,V007,GL5400,Marketing Services March 2025,7500,7500,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-07,2/28/25,V008,GL5500,Cleaning Services March 2025,2460,2460,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-08,2/28/25,V010,GL5250,Internet March 2025,1950.3,1950.3,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-09,2/28/25,V003,GL6200,Quarterly Audit Q1,9500,9500,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-10,2/28/25,V014,GL5230,Data Backup Services March 2025,1850,1850,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-11,2/28/25,V021,GL5710,Office Furniture Maintenance - Q1,1875,1875,0,0,System,Cleared,Quarterly amortization of annual contract
+AC2025-02-12,2/28/25,V025,GL4520,Building Management System March 2025,2100,2100,0,0,System,Cleared,Auto-generated based on contract
+AC2025-02-13,2/28/25,V027,GL5120,Renewable Energy Services March 2025,1750,1750,0,0,System,Cleared,Auto-generated based on contract
+AC2025-03-01,3/31/25,V001,GL4500,Office Lease April 2025,4500,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-02,3/31/25,V002,GL5200,IT Services April 2025,3950.75,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-03,3/31/25,V003,GL5300,Accounting Software April 2025,1250,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-04,3/31/25,V005,GL5100,Electricity March 2025 (9 days),1374.12,0,0,0,User,Pending,Manual estimate for 9 days based on average daily cost
+AC2025-03-05,3/31/25,V006,GL5110,Water March 2025 (9 days),583.65,0,0,0,User,Pending,Manual estimate for 9 days based on average daily cost
+AC2025-03-06,3/31/25,V007,GL5400,Marketing Services April 2025,7500,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-07,3/31/25,V008,GL5500,Cleaning Services April 2025,2460,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-08,3/31/25,V010,GL5250,Internet April 2025,1950.3,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-09,3/31/25,V012,GL5700,Equipment Maintenance Q1,1350,0,0,0,System,Pending,Quarterly amortization of annual contract
+AC2025-03-10,3/31/25,V014,GL5230,Data Backup Services April 2025,1850,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-11,3/31/25,V019,GL4520,Landscaping Maintenance April 2025,1250,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-12,3/31/25,V020,GL6330,Employee Benefits Administration April 2025,2750,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-13,3/31/25,V022,GL5210,Cloud Infrastructure Services April 2025,3250,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-14,3/31/25,V024,GL6300,Quality Testing Services - Q1,6500,0,0,0,System,Pending,Quarterly payment based on contract
+AC2025-03-15,3/31/25,V026,GL6410,Executive Training Program - Q1,8500,0,0,0,System,Pending,Quarterly payment based on contract
+AC2025-03-16,3/31/25,V027,GL5120,Renewable Energy Services April 2025,1750,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-17,3/31/25,V028,GL5620,Coffee and Beverage Service April 2025,875,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-18,3/31/25,V029,GL4530,Security Monitoring Services April 2025,1950,0,0,0,System,Pending,Auto-generated based on contract
+AC2025-03-19,3/31/25,V030,GL5220,Network Management Services April 2025,2850,0,0,0,System,Pending,Auto-generated based on contract

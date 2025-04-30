@@ -1,0 +1,80 @@
+account_id,account_name,account_type,parent_account,active
+GL4000,Facilities Expense,Expense,NULL,Yes
+GL4500,Office Lease Expense,Expense,GL4000,Yes
+GL4510,Parking Expense,Expense,GL4000,Yes
+GL4520,Building Maintenance Expense,Expense,GL4000,Yes
+GL4530,Security Services Expense,Expense,GL4000,Yes
+GL5000,Utilities Expense,Expense,NULL,Yes
+GL5100,Electricity Expense,Expense,GL5000,Yes
+GL5110,Water Expense,Expense,GL5000,Yes
+GL5120,Gas Expense,Expense,GL5000,Yes
+GL5130,Waste Management Expense,Expense,GL5000,Yes
+GL5200,IT Services Expense,Expense,GL5000,Yes
+GL5210,Cloud Hosting Expense,Expense,GL5000,Yes
+GL5220,IT Support Expense,Expense,GL5000,Yes
+GL5230,Data Backup Services Expense,Expense,GL5000,Yes
+GL5240,Cybersecurity Services Expense,Expense,GL5000,Yes
+GL5250,Internet Expense,Expense,GL5000,Yes
+GL5260,Telecommunications Expense,Expense,GL5000,Yes
+GL5300,Software Subscription Expense,Expense,GL5000,Yes
+GL5310,Productivity Software Expense,Expense,GL5000,Yes
+GL5320,CRM Software Expense,Expense,GL5000,Yes
+GL5330,ERP Software Expense,Expense,GL5000,Yes
+GL5400,Marketing Expense,Expense,GL5000,Yes
+GL5410,Digital Marketing Expense,Expense,GL5400,Yes
+GL5420,Print Advertising Expense,Expense,GL5400,Yes
+GL5430,Event Marketing Expense,Expense,GL5400,Yes
+GL5440,PR Services Expense,Expense,GL5400,Yes
+GL5500,Cleaning Services Expense,Expense,GL5000,Yes
+GL5510,Janitorial Services Expense,Expense,GL5500,Yes
+GL5520,Specialized Cleaning Expense,Expense,GL5500,Yes
+GL5600,Office Supplies Expense,Expense,GL5000,Yes
+GL5610,Stationery Expense,Expense,GL5600,Yes
+GL5620,Coffee & Beverages Expense,Expense,GL5600,Yes
+GL5630,Printing Supplies Expense,Expense,GL5600,Yes
+GL5700,Equipment Maintenance Expense,Expense,GL5000,Yes
+GL5710,Office Equipment Maintenance,Expense,GL5700,Yes
+GL5720,HVAC Maintenance Expense,Expense,GL5700,Yes
+GL5800,Software License Expense,Expense,GL5000,Yes
+GL5810,Operating System License Expense,Expense,GL5800,Yes
+GL5820,Database License Expense,Expense,GL5800,Yes
+GL5830,Security Software License Expense,Expense,GL5800,Yes
+GL6000,Professional Services Expense,Expense,NULL,Yes
+GL6100,Legal Expense,Expense,GL6000,Yes
+GL6110,Litigation Expense,Expense,GL6100,Yes
+GL6120,Contract Review Expense,Expense,GL6100,Yes
+GL6130,Compliance Legal Expense,Expense,GL6100,Yes
+GL6200,Audit Services Expense,Expense,GL6000,Yes
+GL6210,External Audit Expense,Expense,GL6200,Yes
+GL6220,Internal Audit Expense,Expense,GL6200,Yes
+GL6300,Consulting Services Expense,Expense,GL6000,Yes
+GL6310,Business Consulting Expense,Expense,GL6300,Yes
+GL6320,IT Consulting Expense,Expense,GL6300,Yes
+GL6330,HR Consulting Expense,Expense,GL6300,Yes
+GL6400,Training Expense,Expense,GL6000,Yes
+GL6410,Staff Development Expense,Expense,GL6400,Yes
+GL6420,Certification Expense,Expense,GL6400,Yes
+GL6500,Recruiting Expense,Expense,GL6000,Yes
+GL6510,Job Posting Expense,Expense,GL6500,Yes
+GL6520,Background Check Expense,Expense,GL6500,Yes
+GL6530,Recruitment Agency Expense,Expense,GL6500,Yes
+GL7000,Travel & Entertainment Expense,Expense,NULL,Yes
+GL7100,Travel Expense,Expense,GL7000,Yes
+GL7110,Airfare Expense,Expense,GL7100,Yes
+GL7120,Hotel Expense,Expense,GL7100,Yes
+GL7130,Transportation Expense,Expense,GL7100,Yes
+GL7200,Meals & Entertainment Expense,Expense,GL7000,Yes
+GL7210,Business Meals Expense,Expense,GL7200,Yes
+GL7220,Catering Expense,Expense,GL7200,Yes
+GL8000,Insurance Expense,Expense,NULL,Yes
+GL8100,General Liability Insurance Expense,Expense,GL8000,Yes
+GL8200,Property Insurance Expense,Expense,GL8000,Yes
+GL8300,Professional Liability Insurance Expense,Expense,GL8000,Yes
+GL9000,Miscellaneous Expense,Expense,NULL,Yes
+GL2000,Current Liabilities,Liability,NULL,Yes
+GL2100,Accrued Expenses,Liability,GL2000,Yes
+GL2110,Accrued Utilities,Liability,GL2100,Yes
+GL2120,Accrued Professional Services,Liability,GL2100,Yes
+GL2130,Accrued Software & IT Services,Liability,GL2100,Yes
+GL2140,Accrued Facility Expenses,Liability,GL2100,Yes
+GL2150,Other Accrued Expenses,Liability,GL2100,Yes

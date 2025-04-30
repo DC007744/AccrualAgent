@@ -1,0 +1,21 @@
+transaction_id,vendor_id,gl_account_id,transaction_date,amount,description,invoice_number,payment_terms
+CT10001,V002,GL5200,4/17/25,3950.75,IT Managed Services,MSP-2025-04,Net 15
+CT10002,V003,GL5300,4/19/25,1250,Accounting Software Subscription,ACCT-SUB-0425,Net 30
+CT10003,V008,GL5500,4/24/25,2460,Cleaning Services,CLEAN-0425,Net 15
+CT10004,V011,GL5600,4/26/25,2150,Office Supplies,OFF-SUP-APR25,Net 30
+CT10005,V004,GL6100,4/20/25,3850,Legal Services - Contract Review,LS-2504-01,Net 45
+CT10006,V010,GL5250,4/27/25,1950.3,Internet Services,NET-APR-25,Net 15
+CT10007,V014,GL5230,4/12/25,1850,Data Backup Services,BKP-APR25,Net 30
+CT10008,V015,GL5630,4/14/25,1475.5,Printing Services,PRINT-0425,Net 15
+CT10009,V016,GL7130,4/15/25,995.75,Courier Services,COUR-APR25,Net 15
+CT10010,V017,GL5520,4/16/25,345,Document Destruction Services,SHRED-0425,Net 30
+CT10011,V018,GL7220,4/22/25,2250,Catering for Board Meeting,CATER-0422,Net 15
+CT10012,V022,GL5210,4/19/25,3250,Cloud Infrastructure Services,CLOUD-0425,Net 30
+CT10013,V023,GL6530,4/25/25,3750,Recruitment Services - Marketing Manager,REC-0425-01,Net 45
+CT10014,V028,GL5620,4/14/25,875,Coffee and Beverage Service,COF-APR25,Net 15
+CT10015,V030,GL5220,4/17/25,2850,Network Management Services,NET-APR25,Net 15
+CT10016,V024,GL6300,4/29/25,6500,Quality Testing Services - Q2,QA-Q225,Net 30
+CT10017,V025,GL4520,4/11/25,2100,Building Management System,BMS-APR25,Net 30
+CT10018,V019,GL4520,4/18/25,1250,Landscaping Maintenance,LAND-APR25,Net 30
+CT10019,V021,GL5710,4/15/25,1875,Office Furniture Maintenance - Q2,FURN-Q225,Net 30
+CT10020,V026,GL6410,4/26/25,8500,Executive Training Program - Q2,TRAIN-Q225,Net 45

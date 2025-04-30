@@ -1,0 +1,31 @@
+vendor_id,vendor_name,vendor_type,payment_terms,contact_email,contact_phone,active
+V001,Skyline Properties,Real Estate,Net 30,leasing@skylineproperties.com,555-123-4567,Yes
+V002,TechSupport Solutions,IT Services,Net 15,billing@techsupport.com,555-234-5678,Yes
+V003,FinancePro Software,Software,Net 30,accounts@financepro.com,555-345-6789,Yes
+V004,Legal Eagles LLP,Legal Services,Net 45,billing@legaleagles.com,555-456-7890,Yes
+V005,PowerGrid Utilities,Utilities,Net 21,support@powergrid.com,555-567-8901,Yes
+V006,ClearWater Services,Utilities,Net 21,billing@clearwater.com,555-678-9012,Yes
+V007,Marketing Masters,Marketing,Net 30,accounts@marketingmasters.com,555-789-0123,Yes
+V008,CleanSweep Services,Maintenance,Net 15,billing@cleansweep.com,555-890-1234,Yes
+V009,SupplyMaster Corp,Office Supplies,Net 30,orders@supplymaster.com,555-901-2345,No
+V010,ConnectWave Communications,Telecommunications,Net 15,support@connectwave.com,555-012-3456,Yes
+V011,Office Supply Depot,Office Supplies,Net 30,accounting@officesupply.com,555-123-4567,Yes
+V012,MaintainCo Inc,Maintenance,Net 30,service@maintainco.com,555-234-5678,Yes
+V013,SoftTech Solutions,Software,Net 45,licensing@softtech.com,555-345-6789,Yes
+V014,DataSafe Backup Solutions,IT Services,Net 30,invoicing@datasafe.com,555-444-7890,Yes
+V015,Precision Printing,Office Services,Net 15,accounts@precisionprinting.com,555-555-7891,Yes
+V016,Global Courier Express,Shipping,Net 15,billing@globalcourier.com,555-666-7892,Yes
+V017,Secure Shredding Services,Office Services,Net 30,payments@secureshred.com,555-777-7893,Yes
+V018,Metro Catering,Food Services,Net 15,billing@metrocatering.com,555-888-7894,Yes
+V019,Parkview Landscaping,Maintenance,Net 30,accounts@parkview.com,555-999-7895,Yes
+V020,Corporate Benefits Group,Insurance,Net 45,billing@corpbenefits.com,555-111-7896,Yes
+V021,Ergonomic Furniture Inc,Office Supplies,Net 30,sales@ergofurniture.com,555-222-7897,Yes
+V022,Cloud Infrastructure Services,IT Services,Net 30,billing@cloudinfra.com,555-333-7898,Yes
+V023,Professional Recruiting Partners,HR Services,Net 45,invoices@prorecruiting.com,555-444-7899,Yes
+V024,Quality Assurance Labs,Testing Services,Net 30,accounting@qalabs.com,555-555-7900,Yes
+V025,SmartHome Building Management,Facilities,Net 30,billing@smarthomebm.com,555-666-7901,Yes
+V026,Executive Training Institute,Training,Net 45,accounts@exectraining.com,555-777-7902,Yes
+V027,Clean Energy Providers,Utilities,Net 21,billing@cleanenergy.com,555-888-7903,Yes
+V028,Premium Coffee Supplies,Office Supplies,Net 15,orders@premiumcoffee.com,555-999-7904,Yes
+V029,Security Monitoring Systems,Security,Net 30,invoices@securitymonitoring.com,555-111-7905,Yes
+V030,Advanced Network Solutions,IT Services,Net 15,accounting@advancednetwork.com,555-222-7906,Yes
